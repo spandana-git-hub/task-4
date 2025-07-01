@@ -40,7 +40,7 @@
 
 🧠 Sigmoid Function
 Logistic regression uses the sigmoid function to convert input into a probability:
-[sigma(z) = \frac{1}{1 + e^{-z}}]
+[sigma(z) = {1}/{1 + e^{-z}}]
 
 - If the predicted probability > 0.5, the model classifies it as class 1
 - The threshold can be adjusted to optimize for different evaluation metrics
